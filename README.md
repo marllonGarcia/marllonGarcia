@@ -1,7 +1,7 @@
 ### Oi! Eu sou Marllon Garcia
 
 
--💻 Estudando para ser um desenvolvedor Front-end
+-💻 Estudando para ser um desenvolvedor Front-end <br>
 -📚 Estudando CSS,HTML5 & JavaScript
 
  <div>
