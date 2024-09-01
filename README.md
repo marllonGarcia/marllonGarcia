@@ -1,8 +1,12 @@
-### Oi! Eu sou Marllon Garcia
+###👨‍💻 Back-End Developer 
 
+🎯 Especialista em desenvolvimento back-end com foco em Java, criando soluções robustas e escaláveis para problemas complexos.
 
--💻 Estudando para ser um desenvolvedor Front-end <br>
--📚 Estudando CSS,HTML5 & JavaScript
+🔧 Tecnologias principais: Java, Spring Boot, Hibernate, RESTful APIs, SQL, e microsserviços.
+
+📚 Sempre aprendendo e explorando novas tecnologias para melhorar minhas habilidades e contribuir com a comunidade.
+
+🌱 Atualmente focado em aprimorar conhecimentos em  arquitetura de microsserviços.
 
  <div>
   <a href="https://github.com/marllonGarcia">
